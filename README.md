@@ -1,4 +1,5 @@
 # 🤖 WhatsApp Chatbot com Google Gemini
+**Feito por Omar Mahmoud e Thiago Silva**
 
 Chatbot inteligente para WhatsApp Business que utiliza a IA do Google Gemini para conversas naturais e contextualizadas.
 
@@ -231,12 +232,10 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 🆘 Suporte
 
-- 📧 **Email**: [seu-email@exemplo.com]
+
 - 💬 **Issues**: Use as Issues do GitHub para reportar bugs
 - 📚 **Documentação**: [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp)
 
 ---
-
-**Feito com ❤️ e ☕ por [Seu Nome]**
 
 > 🚀 **Pronto para começar?** Faça o fork e deploy agora mesmo!
